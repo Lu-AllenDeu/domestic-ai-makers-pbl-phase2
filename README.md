@@ -66,16 +66,15 @@ text2cad-workshop/
 ├── README.md
 ├── syllabus.md
 ├── setup.md
-├── requirements.txt
-└── .gitignore
+
 ```
 
 ## 快速开始
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yourname/text2cad-workshop.git
-cd text2cad-workshop
+git clone https://github.com/earthtojake/text-to-cad
+cd text-to-cad
 
 # 2. 按 setup.md 完成环境安装
 # 3. 每天进入对应文件夹，先读 README.md
