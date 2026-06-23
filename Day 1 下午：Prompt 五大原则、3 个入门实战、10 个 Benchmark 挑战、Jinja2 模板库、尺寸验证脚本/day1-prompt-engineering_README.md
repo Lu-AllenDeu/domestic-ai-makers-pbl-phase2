@@ -132,4 +132,4 @@ print(f"L={bbox.XLength:.2f}, W={bbox.YLength:.2f}, H={bbox.ZLength:.2f}")
 
 - 完成 5 个及以上 Benchmark（加分）
 - 尝试用图像输入生成 CAD（`--image ./sketch.png`）（加分）
-- 编写自动化评测脚本：批量运行 10 个 Benchmark，自动评分（大幅加分）
+- 编写自动化评测脚本：批量运行 10 个 Benchmark (加分)
