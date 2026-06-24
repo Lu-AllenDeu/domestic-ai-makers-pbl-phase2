@@ -2,7 +2,6 @@
 
 > 用自然语言生成工程级 CAD 模型，用 Loop Engineering 让 AI 自主迭代到合格，最后用 Bambu Studio 切片直送 3D 打印机。
 > 
-> XJTLU AOA TECH 教育改革项目
 
 ---
 
